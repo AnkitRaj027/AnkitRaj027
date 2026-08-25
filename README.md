@@ -1,15 +1,17 @@
 🙋‍♂️ About Me
 -🙂 I'm Ankit Raj doing B.Tech from Lovely Professional University
--🎓 Currently in 4th semester 
+-🎓 Currently in tth semester 
 -💻 Interested in Web Development, Machine Learning & DSA 
--🌱 Currently learning DSA, React, MongoDB...
+-🌱 Currently learning DSA, Generative AI, Agentic AI...
 -🧠 Love solving aptitude & logical problems
 
 🛠️ Tech Stack
 - Languages: C, C++, Java, JavaScript, Python, MySQl ,PostgreSQL
-- Frontend: HTML, CSS, React
+- Frontend: HTML, CSS, React, Tailwind
 - Machine Learning: Linear Algebra, Probability and Statistics
-- Tools: Git, GitHub, VS Code
+- Libraries & Frameworks:	NumPy, Pandas, Matplotlib, Scikit-learn
+- •	Backend: MySQL, PostgreSQL, RESTful APIs
+- Tools:VS CODE, Git, GitHub, Streamlit, Google Colab, Vercel
 
 📌 Current Focus
 - 🔭 Improving Data Structures & Algorithms and Machine Learning
@@ -18,7 +20,7 @@
 
 📫 Connect With Me
 GitHub: https://github.com/AnkitRaj027
-LinkedIn: https://www.linkedin.com/in/ankit-raj-87a797311/ 
+LinkedIn: https://www.linkedin.com/in/ankitraj027/ 
 
 ⚡ Fun Fact
 I enjoy solving tricky problems more than scrolling social media 😄
