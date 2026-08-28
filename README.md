@@ -1,26 +1,54 @@
-🙋‍♂️ About Me
--🙂 I'm Ankit Raj doing B.Tech from Lovely Professional University
--🎓 Currently in tth semester 
--💻 Interested in Web Development, Machine Learning & DSA 
--🌱 Currently learning DSA, Generative AI, Agentic AI...
--🧠 Love solving aptitude & logical problems
+Hi, I'm Ankit Raj 👋
 
-🛠️ Tech Stack
-- Languages: C, C++, Java, JavaScript, Python, MySQl ,PostgreSQL
-- Frontend: HTML, CSS, React, Tailwind
-- Machine Learning: Linear Algebra, Probability and Statistics
-- Libraries & Frameworks:	NumPy, Pandas, Matplotlib, Scikit-learn
-- •	Backend: MySQL, PostgreSQL, RESTful APIs
-- Tools:VS CODE, Git, GitHub, Streamlit, Google Colab, Vercel
+AI & Software Developer | Machine Learning | Generative AI
 
-📌 Current Focus
-- 🔭 Improving Data Structures & Algorithms and Machine Learning
-- 🌱 Learning Full Stack Development
-- 🧩 Practicing coding daily
+I'm passionate about building practical technology and exploring how Artificial Intelligence and Software Development can be used to solve real-world problems.
 
-📫 Connect With Me
-GitHub: https://github.com/AnkitRaj027
-LinkedIn: https://www.linkedin.com/in/ankitraj027/ 
+I enjoy learning by building, experimenting with new technologies, and continuously strengthening my problem-solving and development skills.
 
-⚡ Fun Fact
-I enjoy solving tricky problems more than scrolling social media 😄
+---
+
+👨‍💻 About Me
+
+- 🤖 Exploring Artificial Intelligence, Machine Learning & Generative AI
+- 💻 Working with Python & C++
+- 🧠 Strengthening Data Structures & Algorithms
+- ⚙️ Interested in building practical and scalable software
+- 📚 Continuously learning and experimenting with emerging technologies
+- 🚀 Focused on turning ideas into useful technology
+
+---
+
+🛠️ Technologies & Interests
+
+Languages
+"Python" "C++"
+
+AI & Machine Learning
+"Artificial Intelligence" "Machine Learning" "Generative AI"
+
+Computer Science
+"Data Structures & Algorithms" "Problem Solving" "Software Development"
+
+---
+
+🌱 Currently Learning
+
+- Generative AI
+- Machine Learning
+- AI application development
+- Advanced problem solving
+- Software engineering practices
+
+---
+
+🤝 Let's Connect
+
+I'm always open to connecting with people interested in AI, Machine Learning, Software Development, and emerging technologies.
+
+🔗 LinkedIn: https://www.linkedin.com/in/ankitraj027
+🌐 Portfolio: https://ankitraj027portfolio.vercel.app
+
+---
+
+💭 Learn continuously. Build thoughtfully. Improve relentlessly.
