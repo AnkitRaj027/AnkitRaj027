@@ -52,7 +52,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/AnkitRaj027/AnkitRaj027/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 > Note: The snake animation needs a one-time GitHub Actions setup. Ask me for the workflow file if you want it — it auto-generates the image above.
