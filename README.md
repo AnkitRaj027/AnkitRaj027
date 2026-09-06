@@ -43,7 +43,7 @@ AI-powered code analysis and understanding platform — analyze, understand, and
 
 AI Code Analysis Full-Stack
 
-Live Demo →  ·  GitHub →
+Live Demo →codelens-study.vercel.app  ·  GitHub →https://github.com/AnkitRaj027?tab=repositories
 
 <br>
 Pocket AI
@@ -52,7 +52,7 @@ Document-based AI chatbot using RAG — upload documents and get answers grounde
 
 RAG LLMs Chatbot
 
-GitHub →
+GitHub →https://github.com/AnkitRaj027/ChatBot
 
 <br>
 PocketCA
@@ -61,7 +61,7 @@ AI-powered Indian Tax Assistant.
 
 AI Domain Assistant
 
-GitHub →
+GitHub →https://github.com/AnkitRaj027/PocketCA
 
 <br>
 📚 Learning & Exploring
