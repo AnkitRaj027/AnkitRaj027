@@ -1,31 +1,24 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A8A&height=170&section=header&text=Ankit%20Raj&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=AI/ML%20%26%20Full%20Stack%20Developer&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="header banner"/> <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&pause=1600&color=3B82F6&center=true&vCenter=true&width=640&lines=Building+intelligent+systems+with+AI+%26+GenAI;Engineering+AI-powered+developer+tools;Turning+ideas+into+production-ready+software;Exploring+LLMs%2C+RAG+%26+intelligent+systems" alt="typing animation"/> </div> <br> <table width="100%"> <tr> <td width="30%" valign="top">
-01001000 01101001
-01100001 01101001
-01101110 01101011
-01101001 01110100
-00100000 01110010
-01100001 01101010
-
-<sub>ANKIT_RAJ.exe</sub>
-
-</td> <td width="70%" valign="top">
+<div align="center">
+Ankit Raj
+AI/ML & Full Stack Developer
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&pause=1600&color=3B82F6&center=true&vCenter=true&width=640&lines=Building+intelligent+systems+with+AI+%26+GenAI;Engineering+AI-powered+developer+tools;Turning+ideas+into+production-ready+software;Exploring+LLMs%2C+RAG+%26+intelligent+systems" alt="typing animation"/> <br> <img src="https://img.shields.io/badge/FOCUS-LLMs_&_RAG-0F172A?style=for-the-badge&labelColor=1E3A8A&color=0F172A"/> <img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLABORATE-0F172A?style=for-the-badge&labelColor=1E3A8A&color=0F172A"/> </div> <br> <div align="center">
 
 Building intelligent systems at the intersection of AI and software engineering — with a focus on LLMs, retrieval-augmented systems, and full-stack products that ship.
 
-</td> </tr> </table> <br>
+</div> <br>
 About
 
 Computer Science student with a focus on AI, Generative AI, and full-stack development. I work across the stack — from model-facing logic like RAG pipelines to the interfaces that make them usable — with an emphasis on building complete, working systems rather than isolated experiments.
 
 <br>
 Currently Building
-<table width="100%"> <tr> <td width="60%" valign="top">
+<table width="100%"> <tr> <td width="58%" valign="top">
 
 CodeLens — an AI-powered code analysis platform, actively in development with a live demo.
 
-</td> <td width="40%" valign="top">
+</td> <td width="42%" valign="top">
 
-Also exploring: RAG-based systems · AI developer tools · Full-stack AI products
+Also exploring: RAG-based systems · AI developer tools · full-stack AI products
 
 </td> </tr> </table> <br>
 Tech Stack
@@ -91,4 +84,10 @@ Build → Learn → Iterate → Ship
 
 <br>
 Connect
-<p align="center"> <a href="https://www.linkedin.com/in/ankitraj027/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=3B82F6"/> </a> <a href="mailto:ankitraj.main@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=3B82F6"/> </a> <a href="https://ankitraj027portfolio.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=3B82F6"/> </a> </p> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A8A&height=80&section=footer" width="100%" alt="footer"/> </div>
+<p align="center"> <a href="https://www.linkedin.com/in/ankitraj027/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=3B82F6"/> </a> <a href="mailto:ankitraj.main@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=3B82F6"/> </a> <a href="https://ankitraj027portfolio.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=3B82F6"/> </a> </p> <br> <div align="center">
+
+―――――――――
+
+<sub>Ankit Raj · Building at the intersection of AI and software engineering</sub>
+
+</div>
