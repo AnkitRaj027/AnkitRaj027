@@ -1,7 +1,9 @@
 <div align="center">
 Ankit Raj
-                         AI/ML & Full Stack Developer
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&pause=1600&color=3B82F6&center=true&vCenter=true&width=640&lines=Building+intelligent+systems+with+AI+%26+GenAI;Engineering+AI-powered+developer+tools;Turning+ideas+into+production-ready+software;Exploring+LLMs%2C+RAG+%26+intelligent+systems" alt="typing animation"/> <br> <img src="https://img.shields.io/badge/FOCUS-LLMs_&_RAG-0F172A?style=for-the-badge&labelColor=1E3A8A&color=0F172A"/> <img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLABORATE-0F172A?style=for-the-badge&labelColor=1E3A8A&color=0F172A"/> </div> <br> <div align="center">
+AI/ML & Full Stack Developer
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&pause=1600&color=3B82F6&center=true&vCenter=true&width=640&lines=Building+intelligent+systems+with+AI+%26+GenAI;Engineering+AI-powered+developer+tools;Turning+ideas+into+production-ready+software;Exploring+LLMs%2C+RAG+%26+intelligent+systems" alt="typing animation"/> <br> <img src="https://img.shields.io/badge/FOCUS-LLMs_&_RAG-0F172A?style=for-the-badge&labelColor=1E3A8A&color=0F172A"/> <img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLABORATE-0F172A?style=for-the-badge&labelColor=1E3A8A&color=0F172A"/>
+
+<br><br>
 
 Building intelligent systems at the intersection of AI and software engineering — with a focus on LLMs, retrieval-augmented systems, and full-stack products that ship.
 
@@ -12,35 +14,28 @@ Computer Science student with a focus on AI, Generative AI, and full-stack devel
 
 <br>
 Currently Building
-<table width="100%"> <tr> <td width="58%" valign="top">
 
 CodeLens — an AI-powered code analysis platform, actively in development with a live demo.
 
-</td> <td width="42%" valign="top">
+Also exploring RAG-based systems, AI developer tools, and full-stack AI products.
 
-Also exploring: RAG-based systems · AI developer tools · full-stack AI products
-
-</td> </tr> </table> <br>
+<br>
 Tech Stack
-<table width="100%"> <tr> <td valign="top">
 
-Languages <br/> <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=3B82F6"/> <img src="https://img.shields.io/badge/C++-0F172A?style=flat-square&logo=cplusplus&logoColor=3B82F6"/> <img src="https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=3B82F6"/> <img src="https://img.shields.io/badge/SQL-0F172A?style=flat-square&logo=postgresql&logoColor=3B82F6"/>
+Languages <br> <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=3B82F6"/> <img src="https://img.shields.io/badge/C++-0F172A?style=flat-square&logo=cplusplus&logoColor=3B82F6"/> <img src="https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=3B82F6"/> <img src="https://img.shields.io/badge/SQL-0F172A?style=flat-square&logo=postgresql&logoColor=3B82F6"/>
 
-AI / ML <br/> <img src="https://img.shields.io/badge/Generative_AI-0F172A?style=flat-square&logoColor=3B82F6"/> <img src="https://img.shields.io/badge/LLMs-0F172A?style=flat-square&logoColor=3B82F6"/> <img src="https://img.shields.io/badge/RAG-0F172A?style=flat-square&logoColor=3B82F6"/> <img src="https://img.shields.io/badge/NLP-0F172A?style=flat-square&logoColor=3B82F6"/>
+AI / ML <br> <img src="https://img.shields.io/badge/Generative_AI-0F172A?style=flat-square&logoColor=3B82F6"/> <img src="https://img.shields.io/badge/LLMs-0F172A?style=flat-square&logoColor=3B82F6"/> <img src="https://img.shields.io/badge/RAG-0F172A?style=flat-square&logoColor=3B82F6"/> <img src="https://img.shields.io/badge/NLP-0F172A?style=flat-square&logoColor=3B82F6"/>
 
-</td> <td valign="top">
+Frontend <br> <img src="https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=3B82F6"/> <img src="https://img.shields.io/badge/HTML-0F172A?style=flat-square&logo=html5&logoColor=3B82F6"/> <img src="https://img.shields.io/badge/CSS-0F172A?style=flat-square&logo=css3&logoColor=3B82F6"/>
 
-Frontend <br/> <img src="https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=3B82F6"/> <img src="https://img.shields.io/badge/HTML-0F172A?style=flat-square&logo=html5&logoColor=3B82F6"/> <img src="https://img.shields.io/badge/CSS-0F172A?style=flat-square&logo=css3&logoColor=3B82F6"/>
+Backend <br> <img src="https://img.shields.io/badge/FastAPI-0F172A?style=flat-square&logo=fastapi&logoColor=3B82F6"/> <img src="https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=node.js&logoColor=3B82F6"/>
 
-Backend <br/> <img src="https://img.shields.io/badge/FastAPI-0F172A?style=flat-square&logo=fastapi&logoColor=3B82F6"/> <img src="https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=node.js&logoColor=3B82F6"/>
+Database <br> <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=3B82F6"/>
 
-Database <br/> <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=3B82F6"/>
+Tools <br> <img src="https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=3B82F6"/> <img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=3B82F6"/> <img src="https://img.shields.io/badge/VS_Code-0F172A?style=flat-square&logo=visualstudiocode&logoColor=3B82F6"/> <img src="https://img.shields.io/badge/Vercel-0F172A?style=flat-square&logo=vercel&logoColor=3B82F6"/>
 
-Tools <br/> <img src="https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=3B82F6"/> <img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=3B82F6"/> <img src="https://img.shields.io/badge/VS_Code-0F172A?style=flat-square&logo=visualstudiocode&logoColor=3B82F6"/> <img src="https://img.shields.io/badge/Vercel-0F172A?style=flat-square&logo=vercel&logoColor=3B82F6"/>
-
-</td> </tr> </table> <br>
+<br>
 Featured Projects
-<table width="100%"> <tr> <td width="100%">
 CodeLens
 
 AI-powered code analysis and understanding platform — analyze, understand, and optimize code.
@@ -49,7 +44,7 @@ AI Code Analysis Full-Stack
 
 Live Demo →  ·  GitHub →
 
-</td> </tr> </table> <table width="100%"> <tr> <td width="50%" valign="top">
+<br>
 Pocket AI
 
 Document-based AI chatbot using RAG — upload documents and get answers grounded in your own data.
@@ -58,7 +53,7 @@ RAG LLMs Chatbot
 
 GitHub →
 
-</td> <td width="50%" valign="top">
+<br>
 PocketCA
 
 AI-powered Indian Tax Assistant.
@@ -67,7 +62,7 @@ AI Domain Assistant
 
 GitHub →
 
-</td> </tr> </table> <br>
+<br>
 Learning & Exploring
 <img src="https://img.shields.io/badge/LLMs-0F172A?style=flat-square&logoColor=3B82F6"/> <img src="https://img.shields.io/badge/Generative_AI-0F172A?style=flat-square&logoColor=3B82F6"/> <img src="https://img.shields.io/badge/RAG_Systems-0F172A?style=flat-square&logoColor=3B82F6"/> <img src="https://img.shields.io/badge/AI_Agents-0F172A?style=flat-square&logoColor=3B82F6"/> <img src="https://img.shields.io/badge/System_Design-0F172A?style=flat-square&logoColor=3B82F6"/>
 
