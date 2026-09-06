@@ -1,6 +1,6 @@
 <div align="center">
 Ankit Raj
-AI/ML & Full Stack Developer
+                         AI/ML & Full Stack Developer
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&pause=1600&color=3B82F6&center=true&vCenter=true&width=640&lines=Building+intelligent+systems+with+AI+%26+GenAI;Engineering+AI-powered+developer+tools;Turning+ideas+into+production-ready+software;Exploring+LLMs%2C+RAG+%26+intelligent+systems" alt="typing animation"/> <br> <img src="https://img.shields.io/badge/FOCUS-LLMs_&_RAG-0F172A?style=for-the-badge&labelColor=1E3A8A&color=0F172A"/> <img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLABORATE-0F172A?style=for-the-badge&labelColor=1E3A8A&color=0F172A"/> </div> <br> <div align="center">
 
 Building intelligent systems at the intersection of AI and software engineering — with a focus on LLMs, retrieval-augmented systems, and full-stack products that ship.
