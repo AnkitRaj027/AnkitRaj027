@@ -8,6 +8,8 @@
       <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-10B981?style=for-the-badge&labelColor=0D1117" alt="Status"/>
       <br>
       <img src="https://img.shields.io/badge/LOCATION-INDIA-F59E0B?style=flat-square&labelColor=0D1117" alt="Location"/>
+      <br>
+      <img src="https://komarev.com/ghpvc/?username=AnkitRaj027&label=PROFILE+VIEWS&color=38bdf8&style=flat-square&labelColor=0d1117" alt="Profile Views"/>
     </td>
     <td width="72%" valign="middle" align="left">
       <h1>Hi there, I'm <span style="color: #38BDF8;">Ankit Raj</span> 👋</h1>
