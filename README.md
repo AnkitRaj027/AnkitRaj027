@@ -283,29 +283,32 @@ class SystemsEngineer:
   • Combines an immersive visual experience with personal storytelling to turn everyday progress into a living record.
 </td>
       <td>
-        <code>Python</code> <code>LangChain</code> <code>ChromaDB</code> <code>RAG</code>
+        <code>React</code> <code>TypeScript</code> <code>Supabase</code> <code>Google OAuth</code> <code>Vercel</code>
         <br><br>
         <a href="https://github.com/AnkitRaj027/ChatBot" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-1E293B?style=flat-square&logo=github&logoColor=white" alt="Repo"/>
+        </a>
+        <a href="https://rewritingmyself.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-38BDF8?style=flat-square&logo=vercel&logoColor=0D1117" alt="Demo"/>
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <b>💰 PocketCA</b>
-        <br>
-        <sub>AI-Powered Indian Tax & Advisory Assistant</sub>
-      </td>
+  <b>📖 Living Journal</b>
+  <br>
+  <sub>Personal Digital Journal & Life Documentation Platform</sub>
+</td>
+<td>
+  • A private digital space for documenting thoughts, experiences, memories, and everyday moments.<br>
+  • Designed to turn personal reflections into a structured, evolving record of life over time.<br>
+  • Immersive interface focused on making journaling feel personal, visual, and meaningful.
+</td>
       <td>
-        • Domain-tailored LLM assistant decoding Indian tax regimes and exemptions.<br>
-        • Intelligent deduction planning and slab optimization calculators.<br>
-        • Contextual guidance designed for quick taxpayer decision-making.
-      </td>
-      <td>
-        <code>Python</code> <code>FastAPI</code> <code>GenAI</code> <code>Financial NLP</code>
+        <code>React</code> <code>TypeScript</code> <code>Supabase</code> <code>Authentication</code> <code>Vercel</code>
         <br><br>
-        <a href="https://github.com/AnkitRaj027/PocketCA" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-1E293B?style=flat-square&logo=github&logoColor=white" alt="Repo"/>
+        <a href="https://living-journal.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-38BDF8?style=flat-square&logo=vercel&logoColor=0D1117" alt="Demo"/>
         </a>
       </td>
     </tr>
