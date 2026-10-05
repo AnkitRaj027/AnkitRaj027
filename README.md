@@ -8,8 +8,6 @@
       <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-10B981?style=for-the-badge&labelColor=0D1117" alt="Status"/>
       <br>
       <img src="https://img.shields.io/badge/LOCATION-INDIA-F59E0B?style=flat-square&labelColor=0D1117" alt="Location"/>
-      <br>
-      <img src="https://komarev.com/ghpvc/?username=AnkitRaj027&label=PROFILE+VIEWS&color=38bdf8&style=flat-square&labelColor=0d1117" alt="Profile Views"/>
     </td>
     <td width="72%" valign="middle" align="left">
       <h1>Hi there, I'm <span style="color: #38BDF8;">Ankit Raj</span> 👋</h1>
@@ -169,6 +167,68 @@ class SystemsEngineer:
         <img src="https://img.shields.io/badge/VS_Code-1E293B?style=flat-square&logo=visualstudiocode&logoColor=38BDF8"/>
       </td>
     </tr>
+  </table>
+
+  <br>
+
+  <!-- Languages Ranked by Comfort & Daily Proficiency -->
+  <h4>💻 Languages Ranked by Comfort & Daily Proficiency</h4>
+
+  <table width="100%">
+    <thead>
+      <tr>
+        <th align="center" width="8%">Rank</th>
+        <th align="left" width="22%">Language</th>
+        <th align="left" width="46%">Primary Focus & Workloads</th>
+        <th align="center" width="24%">Comfort Level</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center"><b>01</b></td>
+        <td>
+          <img src="https://img.shields.io/badge/1._Python-38BDF8?style=flat-square&logo=python&logoColor=0D1117" alt="Python"/>
+        </td>
+        <td><b>Daily Driver</b> · AI/ML Systems, RAG Pipelines, FastAPI, Autonomous Agents</td>
+        <td align="center">
+          <code>95% · High Comfort</code><br>
+          <img src="https://progress-bar.xyz/95/?color=38BDF8&width=110" alt="95%"/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><b>02</b></td>
+        <td>
+          <img src="https://img.shields.io/badge/2._C++-38BDF8?style=flat-square&logo=cplusplus&logoColor=0D1117" alt="C++"/>
+        </td>
+        <td><b>Core Foundation</b> · Data Structures & Algorithms, Performance, Problem Solving</td>
+        <td align="center">
+          <code>85% · Strong</code><br>
+          <img src="https://progress-bar.xyz/85/?color=38BDF8&width=110" alt="85%"/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><b>03</b></td>
+        <td>
+          <img src="https://img.shields.io/badge/3._JS_/_TS-38BDF8?style=flat-square&logo=typescript&logoColor=0D1117" alt="JS/TS"/>
+        </td>
+        <td><b>Full-Stack Web</b> · Dynamic Interfaces with React, Next.js, and Node.js APIs</td>
+        <td align="center">
+          <code>80% · Proficient</code><br>
+          <img src="https://progress-bar.xyz/80/?color=38BDF8&width=110" alt="80%"/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><b>04</b></td>
+        <td>
+          <img src="https://img.shields.io/badge/4._SQL-38BDF8?style=flat-square&logo=postgresql&logoColor=0D1117" alt="SQL"/>
+        </td>
+        <td><b>Data Persistence</b> · Relational Queries, Schema Design, PostgreSQL</td>
+        <td align="center">
+          <code>78% · Comfortable</code><br>
+          <img src="https://progress-bar.xyz/78/?color=38BDF8&width=110" alt="78%"/>
+        </td>
+      </tr>
+    </tbody>
   </table>
 
 </div>
