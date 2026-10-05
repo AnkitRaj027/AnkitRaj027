@@ -2,7 +2,7 @@
   <tr>
     <td width="28%" align="center" valign="middle">
       <a href="https://ankitraj027portfolio.vercel.app" target="_blank">
-        <img src="https://github.com/AnkitRaj027.png?size=240" width="160" alt="Ankit Raj" style="border-radius: 50%; max-width: 100%;" />
+        <img src="./assets/profile.png" width="160" alt="Ankit Raj" style="border-radius: 50%; max-width: 100%;" />
       </a>
       <br><br>
       <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-10B981?style=for-the-badge&labelColor=0D1117" alt="Status"/>
