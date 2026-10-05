@@ -208,16 +208,6 @@ class SystemsEngineer:
       </tr>
       <tr>
         <td align="center"><b>03</b></td>
-        <td>
-          <img src="https://img.shields.io/badge/3._JS_/_TS-38BDF8?style=flat-square&logo=typescript&logoColor=0D1117" alt="JS/TS"/>
-        </td>
-        <td><b>Full-Stack Web</b> · Dynamic Interfaces with React, Next.js, and Node.js APIs</td>
-        <td align="center">
-          <code>80% · Proficient</code><br>
-          <img src="https://progress-bar.xyz/80/?color=38BDF8&width=110" alt="80%"/>
-        </td>
-      </tr>
-      <tr>
         <td align="center"><b>04</b></td>
         <td>
           <img src="https://img.shields.io/badge/4._SQL-38BDF8?style=flat-square&logo=postgresql&logoColor=0D1117" alt="SQL"/>
@@ -227,6 +217,17 @@ class SystemsEngineer:
           <code>78% · Comfortable</code><br>
           <img src="https://progress-bar.xyz/78/?color=38BDF8&width=110" alt="78%"/>
         </td>
+      </tr>
+      <tr>
+      <td>
+          <img src="https://img.shields.io/badge/3._JS_/_TS-38BDF8?style=flat-square&logo=typescript&logoColor=0D1117" alt="JS/TS"/>
+        </td>
+        <td><b>Full-Stack Web</b> · Dynamic Interfaces with React, Next.js, and Node.js APIs</td>
+        <td align="center">
+          <code>80% · Proficient</code><br>
+          <img src="https://progress-bar.xyz/80/?color=38BDF8&width=110" alt="80%"/>
+        </td>
+        
       </tr>
     </tbody>
   </table>
