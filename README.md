@@ -214,7 +214,7 @@ class SystemsEngineer:
         <td><b>Data Persistence</b> · Relational Queries, Schema Design, PostgreSQL</td>
         <td align="center">
           <code>78% · Comfortable</code><br>
-          <img src="https://progress-bar.xyz/78/?color=38BDF8&width=110" alt="80%"/>
+          <img src="https://progress-bar.xyz/80/?color=38BDF8&width=110" alt="80%"/>
         </td>
     </tr>
       <tr>
@@ -225,7 +225,7 @@ class SystemsEngineer:
         <td><b>Full-Stack Web</b> · Dynamic Interfaces with React, Next.js, and Node.js APIs</td>
         <td align="center">
           <code>80% · Proficient</code><br>
-          <img src="https://progress-bar.xyz/80/?color=38BDF8&width=110" alt="78%"/>
+          <img src="https://progress-bar.xyz/78/?color=38BDF8&width=110" alt="78%"/>
         </td>
         
       </tr>
