@@ -273,15 +273,15 @@ class SystemsEngineer:
     </tr>
     <tr>
       <td>
-        <b>📄 Pocket AI</b>
-        <br>
-        <sub>Document-Based RAG Knowledge Engine</sub>
-      </td>
-      <td>
-        • Multi-document contextual question answering with strict ground truth citations.<br>
-        • Hybrid retrieval (vector embeddings + keyword filtering) to minimize hallucination.<br>
-        • Seamless ingestion pipeline for PDFs, TXT, and Markdown files.
-      </td>
+  <b> ReWriting Myself</b>
+  <br>
+  <sub>Personal Growth & Self-Documentation Platform</sub>
+</td>
+<td>
+  • A personal digital space for documenting experiences, thoughts, goals, and the journey of self-improvement.<br>
+  • Designed around reflection, consistency, and tracking the evolution of different versions of yourself over time.<br>
+  • Combines an immersive visual experience with personal storytelling to turn everyday progress into a living record.
+</td>
       <td>
         <code>Python</code> <code>LangChain</code> <code>ChromaDB</code> <code>RAG</code>
         <br><br>
