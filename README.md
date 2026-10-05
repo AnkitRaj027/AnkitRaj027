@@ -205,10 +205,10 @@ class SystemsEngineer:
       <td>
         <code>FastAPI</code> <code>React</code> <code>LLMs</code> <code>AST</code>
         <br><br>
-        <a href="https://github.com/AnkitRaj027/CodeLens" target="_blank">
+        <a href="https://github.com/AnkitRaj027?tab=repositories" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-1E293B?style=flat-square&logo=github&logoColor=white" alt="Repo"/>
         </a>
-        <a href="https://ankitraj027portfolio.vercel.app" target="_blank">
+        <a href="https://codelens-study.vercel.app" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-38BDF8?style=flat-square&logo=vercel&logoColor=0D1117" alt="Demo"/>
         </a>
       </td>
@@ -227,7 +227,7 @@ class SystemsEngineer:
       <td>
         <code>Python</code> <code>LangChain</code> <code>ChromaDB</code> <code>RAG</code>
         <br><br>
-        <a href="https://github.com/AnkitRaj027/Pocket-AI" target="_blank">
+        <a href="https://github.com/AnkitRaj027/ChatBot" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-1E293B?style=flat-square&logo=github&logoColor=white" alt="Repo"/>
         </a>
       </td>
