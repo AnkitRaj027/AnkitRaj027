@@ -251,18 +251,6 @@ class SystemsEngineer:
     </tbody>
   </table>
 
-  <br>
-
-  <!-- Certifications from CV -->
-  <h4>📜 Certifications & Specialized Training</h4>
-  <p align="center">
-    <img src="https://img.shields.io/badge/PyTorch-DeepLearning.AI-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C&labelColor=1E293B"/>
-    <img src="https://img.shields.io/badge/Generative_AI_Apps-IBM-0D1117?style=flat-square&logo=ibm&logoColor=38BDF8&labelColor=1E293B"/>
-    <img src="https://img.shields.io/badge/AI_Professional-Google-0D1117?style=flat-square&logo=google&logoColor=4285F4&labelColor=1E293B"/>
-    <img src="https://img.shields.io/badge/Prompt_Engineering-Vanderbilt-0D1117?style=flat-square&labelColor=1E293B&color=F59E0B"/>
-    <img src="https://img.shields.io/badge/Machine_Learning-Educative-0D1117?style=flat-square&labelColor=1E293B&color=10B981"/>
-  </p>
-
 </div>
 
 <br>
@@ -271,130 +259,13 @@ class SystemsEngineer:
 
 ### 🚀 Featured Engineering Projects
 
-<table>
-  <thead>
-    <tr>
-      <th width="28%">Project</th>
-      <th width="42%">Architecture & Highlights</th>
-      <th width="30%">Stack & Links</th>
-    </tr>
-  </thead>
-  <tbody>
-    <!-- PROJECT 1: CodeLens -->
-    <tr>
-      <td>
-        <b>🔍 CodeLens</b>
-        <br>
-        <sub>AI-Powered Code Analysis & Intelligence Platform</sub>
-      </td>
-      <td>
-        • Deep AST and semantic code evaluation for complex repositories.<br>
-        • Instant security flaw detection, dependency mapping, and code optimization suggestions.<br>
-        • Interactive visualizer delivering contextual insights directly to developers.
-      </td>
-      <td>
-        <code>FastAPI</code> <code>React</code> <code>LLMs</code> <code>AST</code>
-        <br><br>
-        <a href="https://github.com/AnkitRaj027?tab=repositories" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-1E293B?style=flat-square&logo=github&logoColor=white" alt="Repo"/>
-        </a>
-        <a href="https://codelens-study.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-38BDF8?style=flat-square&logo=vercel&logoColor=0D1117" alt="Demo"/>
-        </a>
-      </td>
-    </tr>
-
-    <!-- PROJECT 2: PocketCA -->
-    <tr>
-      <td>
-        <b>💰 PocketCA</b>
-        <br>
-        <sub>AI-Powered Indian Tax Assistant & RAG Pipeline</sub>
-      </td>
-      <td>
-        • Engineered an AI tax advisor delivering accurate guidance on income tax, deductions, and exemptions.<br>
-        • Implemented robust RAG pipeline with document processing, semantic vector search, and prompt engineering.<br>
-        • Interactive conversational chatbot enabling real-time natural language Q&A.
-      </td>
-      <td>
-        <code>Python</code> <code>FastAPI</code> <code>LLMs</code> <code>RAG</code> <code>ChromaDB</code>
-        <br><br>
-        <a href="https://github.com/AnkitRaj027/PocketCA" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-1E293B?style=flat-square&logo=github&logoColor=white" alt="Repo"/>
-        </a>
-      </td>
-    </tr>
-
-    <!-- PROJECT 3: Resume Analyzer -->
-    <tr>
-      <td>
-        <b>📊 Resume Analyzer</b>
-        <br>
-        <sub>AI-Powered Talent Discovery & Semantic Ranking</sub>
-      </td>
-      <td>
-        • SBERT semantic embeddings to extract resume entities and rank candidates against job requirements.<br>
-        • End-to-end resume parsing & technical gap analysis using PyPDF2 and NLTK.<br>
-        • Interactive Streamlit dashboard with Plotly radar charts, leaderboards, and skill heatmaps.
-      </td>
-      <td>
-        <code>Python</code> <code>SBERT</code> <code>NLP</code> <code>Streamlit</code> <code>Plotly</code>
-        <br><br>
-        <a href="https://github.com/AnkitRaj027?tab=repositories" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-1E293B?style=flat-square&logo=github&logoColor=white" alt="Repo"/>
-        </a>
-      </td>
-    </tr>
-
-    <!-- PROJECT 4: ReWriting Myself -->
-    <tr>
-      <td>
-        <b>🌱 ReWriting Myself</b>
-        <br>
-        <sub>Personal Growth & Self-Documentation Platform</sub>
-      </td>
-      <td>
-        • A personal digital space for documenting experiences, thoughts, goals, and self-improvement.<br>
-        • Reflection, consistency tracking, and visualizing the evolution of yourself over time.<br>
-        • Combines an immersive visual experience with personal storytelling.
-      </td>
-      <td>
-        <code>React</code> <code>TypeScript</code> <code>Supabase</code> <code>OAuth</code> <code>Vercel</code>
-        <br><br>
-        <a href="https://github.com/AnkitRaj027?tab=repositories" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-1E293B?style=flat-square&logo=github&logoColor=white" alt="Repo"/>
-        </a>
-        <a href="https://rewritingmyself.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-38BDF8?style=flat-square&logo=vercel&logoColor=0D1117" alt="Demo"/>
-        </a>
-      </td>
-    </tr>
-
-    <!-- PROJECT 5: Living Journal -->
-    <tr>
-      <td>
-        <b>📖 Living Journal</b>
-        <br>
-        <sub>Personal Digital Journal & Life Documentation Platform</sub>
-      </td>
-      <td>
-        • Private digital space for documenting thoughts, experiences, memories, and everyday moments.<br>
-        • Turns personal reflections into a structured, evolving record of life over time.<br>
-        • Immersive interface focused on making journaling feel personal, visual, and meaningful.
-      </td>
-      <td>
-        <code>React</code> <code>TypeScript</code> <code>Supabase</code> <code>Auth</code> <code>Vercel</code>
-        <br><br>
-        <a href="https://github.com/AnkitRaj027?tab=repositories" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-1E293B?style=flat-square&logo=github&logoColor=white" alt="Repo"/>
-        </a>
-        <a href="https://living-journal.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-38BDF8?style=flat-square&logo=vercel&logoColor=0D1117" alt="Demo"/>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Project | Architecture & Highlights | Stack & Links |
+| :--- | :--- | :--- |
+| **🔍 CodeLens**<br><sub>AI-Powered Code Analysis & Intelligence Platform</sub> | • Deep AST and semantic code evaluation for complex repositories.<br>• Instant security flaw detection, dependency mapping, and code optimization suggestions.<br>• Interactive visualizer delivering contextual insights directly to developers. | `FastAPI` `React` `LLMs` `AST`<br><br><a href="https://github.com/AnkitRaj027?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/GitHub-1E293B?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a> <a href="https://codelens-study.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-38BDF8?style=flat-square&logo=vercel&logoColor=0D1117" alt="Demo"/></a> |
+| **💰 PocketCA**<br><sub>AI-Powered Indian Tax Assistant & RAG Pipeline</sub> | • Engineered an AI tax advisor delivering accurate guidance on income tax, deductions, and exemptions.<br>• Implemented robust RAG pipeline with document processing, semantic vector search, and prompt engineering.<br>• Interactive conversational chatbot enabling real-time natural language Q&A. | `Python` `FastAPI` `LLMs` `RAG` `ChromaDB`<br><br><a href="https://github.com/AnkitRaj027/PocketCA" target="_blank"><img src="https://img.shields.io/badge/GitHub-1E293B?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a> |
+| **📊 Resume Analyzer**<br><sub>AI-Powered Talent Discovery & Semantic Ranking</sub> | • SBERT semantic embeddings to extract resume entities and rank candidates against job requirements.<br>• End-to-end resume parsing & technical gap analysis using PyPDF2 and NLTK.<br>• Interactive Streamlit dashboard with Plotly radar charts, leaderboards, and skill heatmaps. | `Python` `SBERT` `NLP` `Streamlit` `Plotly`<br><br><a href="https://github.com/AnkitRaj027?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/GitHub-1E293B?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a> |
+| **🌱 ReWriting Myself**<br><sub>Personal Growth & Self-Documentation Platform</sub> | • A personal digital space for documenting experiences, thoughts, goals, and self-improvement.<br>• Reflection, consistency tracking, and visualizing the evolution of yourself over time.<br>• Combines an immersive visual experience with personal storytelling. | `React` `TypeScript` `Supabase` `OAuth` `Vercel`<br><br><a href="https://github.com/AnkitRaj027?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/GitHub-1E293B?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a> <a href="https://rewritingmyself.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-38BDF8?style=flat-square&logo=vercel&logoColor=0D1117" alt="Demo"/></a> |
+| **📖 Living Journal**<br><sub>Personal Digital Journal & Life Documentation Platform</sub> | • Private digital space for documenting thoughts, experiences, memories, and everyday moments.<br>• Turns personal reflections into a structured, evolving record of life over time.<br>• Immersive interface focused on making journaling feel personal, visual, and meaningful. | `React` `TypeScript` `Supabase` `Auth` `Vercel`<br><br><a href="https://github.com/AnkitRaj027?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/GitHub-1E293B?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a> <a href="https://living-journal.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-38BDF8?style=flat-square&logo=vercel&logoColor=0D1117" alt="Demo"/></a> |
 
 <br>
 
