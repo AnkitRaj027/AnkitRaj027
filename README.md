@@ -1,49 +1,44 @@
-<div align="center">
-
-  <!-- Hero Banner -->
-  <img src="./assets/hero-banner.png" width="100%" alt="Ankit Raj - Header Banner" style="border-radius: 12px;"/>
-
-  <br><br>
-
-  <!-- Name & Professional Title -->
-  <h1>Hi, I'm <span style="color: #38BDF8;">Ankit Raj</span> 👋</h1>
-  <h3>AI/ML & Full-Stack Systems Engineer</h3>
-
-  <!-- Typing SVG Banner -->
-  <a href="https://ankitraj027portfolio.vercel.app" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1800&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems+with+AI+%26+GenAI;Architecting+Production-Grade+RAG+Pipelines;Engineering+AI-Powered+Developer+Tools;Turning+Ambitious+Ideas+into+Production+Software" alt="Typing SVG Animation" />
-  </a>
-
-  <br>
-
-  <!-- High-Signal Status Badges -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/FOCUS-LLMs_%7C_RAG_%7C_Agents-0D1117?style=for-the-badge&labelColor=1E293B&color=38BDF8&logo=openai&logoColor=38BDF8" alt="Focus"/>
-    <img src="https://img.shields.io/badge/STATUS-OPEN_FOR_OPPORTUNITIES-0D1117?style=for-the-badge&labelColor=1E293B&color=10B981" alt="Status"/>
-    <img src="https://img.shields.io/badge/LOCATION-INDIA-0D1117?style=for-the-badge&labelColor=1E293B&color=F59E0B" alt="Location"/>
-  </p>
-
-  <!-- Connect Dock Buttons -->
-  <p align="center">
-    <a href="https://ankitraj027portfolio.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=38BDF8&color=1E293B" alt="Portfolio"/>
-    </a>
-    <a href="https://www.linkedin.com/in/ankitraj027/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8&color=1E293B" alt="LinkedIn"/>
-    </a>
-    <a href="https://github.com/AnkitRaj027" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8&color=1E293B" alt="GitHub"/>
-    </a>
-    <a href="mailto:ankitraj.main@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8&color=1E293B" alt="Email"/>
-    </a>
-  </p>
-
-  <p align="center">
-    <i>"Bridging foundational AI models with scalable full-stack engineering to build software that solves real problems."</i>
-  </p>
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="28%" align="center" valign="middle">
+      <a href="https://ankitraj027portfolio.vercel.app" target="_blank">
+        <img src="https://github.com/AnkitRaj027.png?size=240" width="160" alt="Ankit Raj" style="border-radius: 50%; max-width: 100%;" />
+      </a>
+      <br><br>
+      <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-10B981?style=for-the-badge&labelColor=0D1117" alt="Status"/>
+      <br>
+      <img src="https://img.shields.io/badge/LOCATION-INDIA-F59E0B?style=flat-square&labelColor=0D1117" alt="Location"/>
+    </td>
+    <td width="72%" valign="middle" align="left">
+      <h1>Hi there, I'm <span style="color: #38BDF8;">Ankit Raj</span> 👋</h1>
+      <h3>AI/ML & Full-Stack Systems Engineer</h3>
+      <a href="https://ankitraj027portfolio.vercel.app" target="_blank">
+        <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1800&color=38BDF8&width=550&lines=Building+Intelligent+Systems+with+AI+%26+GenAI;Architecting+Production-Grade+RAG+Pipelines;Engineering+AI-Powered+Developer+Tools;Turning+Ambitious+Ideas+into+Production+Software" alt="Typing SVG Animation" />
+      </a>
+      <br><br>
+      <p>
+        ⚡ <i>Bridging foundational AI models with scalable full-stack engineering to build software that solves real problems.</i>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/FOCUS-LLMs_%7C_RAG_%7C_Agents-0D1117?style=flat-square&labelColor=1E293B&color=38BDF8&logo=openai&logoColor=38BDF8" alt="Focus"/>
+      </p>
+      <p>
+        <a href="https://ankitraj027portfolio.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=38BDF8&color=1E293B" alt="Portfolio"/>
+        </a>
+        <a href="https://www.linkedin.com/in/ankitraj027/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8&color=1E293B" alt="LinkedIn"/>
+        </a>
+        <a href="https://github.com/AnkitRaj027" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8&color=1E293B" alt="GitHub"/>
+        </a>
+        <a href="mailto:ankitraj.main@gmail.com" target="_blank">
+          <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8&color=1E293B" alt="Email"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
