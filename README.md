@@ -105,66 +105,75 @@ class SystemsEngineer:
 
 <div align="center">
 
-  <!-- Quick Visual Icons Grid -->
+  <!-- Quick Visual Icons Grid (SkillIcons.dev) -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,fastapi,nodejs,postgres,mongodb,git,docker,postman,vscode,vercel&perline=8" alt="Tech Stack Icons"/>
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,react,nextjs,fastapi,postgres,mysql,supabase,git,github,linux,vscode,postman,vercel&perline=9" alt="Tech Stack Icons"/>
   </a>
 
   <br><br>
 
-  <!-- Detailed Classified Badges -->
+  <!-- Categorized Technical Stack matching CV -->
   <table>
     <tr>
-      <td align="right"><b>AI / GenAI & ML</b></td>
+      <td align="right"><b>AI / GenAI & LLMs</b></td>
       <td>
-        <img src="https://img.shields.io/badge/LLMs-1E293B?style=flat-square&logo=openai&logoColor=38BDF8"/>
+        <img src="https://img.shields.io/badge/Generative_AI-1E293B?style=flat-square&logo=openai&logoColor=38BDF8"/>
+        <img src="https://img.shields.io/badge/LLMs-1E293B?style=flat-square&logoColor=38BDF8"/>
         <img src="https://img.shields.io/badge/RAG_Pipelines-1E293B?style=flat-square&logoColor=38BDF8"/>
+        <img src="https://img.shields.io/badge/Prompt_Engineering-1E293B?style=flat-square&logoColor=38BDF8"/>
         <img src="https://img.shields.io/badge/LangChain-1E293B?style=flat-square&logo=langchain&logoColor=38BDF8"/>
+        <img src="https://img.shields.io/badge/LangGraph-1E293B?style=flat-square&logoColor=38BDF8"/>
         <img src="https://img.shields.io/badge/LlamaIndex-1E293B?style=flat-square&logoColor=38BDF8"/>
-        <img src="https://img.shields.io/badge/PyTorch-1E293B?style=flat-square&logo=pytorch&logoColor=38BDF8"/>
         <img src="https://img.shields.io/badge/Hugging_Face-1E293B?style=flat-square&logo=huggingface&logoColor=38BDF8"/>
-        <img src="https://img.shields.io/badge/Vector_Databases-1E293B?style=flat-square&logoColor=38BDF8"/>
       </td>
     </tr>
     <tr>
-      <td align="right"><b>Languages</b></td>
+      <td align="right"><b>ML & Deep Learning</b></td>
       <td>
-        <img src="https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=38BDF8"/>
-        <img src="https://img.shields.io/badge/C++-1E293B?style=flat-square&logo=cplusplus&logoColor=38BDF8"/>
-        <img src="https://img.shields.io/badge/JavaScript-1E293B?style=flat-square&logo=javascript&logoColor=38BDF8"/>
-        <img src="https://img.shields.io/badge/TypeScript-1E293B?style=flat-square&logo=typescript&logoColor=38BDF8"/>
-        <img src="https://img.shields.io/badge/SQL-1E293B?style=flat-square&logo=postgresql&logoColor=38BDF8"/>
+        <img src="https://img.shields.io/badge/PyTorch-1E293B?style=flat-square&logo=pytorch&logoColor=38BDF8"/>
+        <img src="https://img.shields.io/badge/Scikit--Learn-1E293B?style=flat-square&logo=scikitlearn&logoColor=38BDF8"/>
+        <img src="https://img.shields.io/badge/NLP-1E293B?style=flat-square&logoColor=38BDF8"/>
+        <img src="https://img.shields.io/badge/SBERT_Embeddings-1E293B?style=flat-square&logoColor=38BDF8"/>
+        <img src="https://img.shields.io/badge/Neural_Networks-1E293B?style=flat-square&logoColor=38BDF8"/>
+        <img src="https://img.shields.io/badge/NLTK-1E293B?style=flat-square&logoColor=38BDF8"/>
       </td>
     </tr>
     <tr>
-      <td align="right"><b>Backend & Cloud</b></td>
+      <td align="right"><b>Vector DBs & Data</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/ChromaDB-1E293B?style=flat-square&logoColor=38BDF8"/>
+        <img src="https://img.shields.io/badge/Vector_Databases-1E293B?style=flat-square&logoColor=38BDF8"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-1E293B?style=flat-square&logo=postgresql&logoColor=38BDF8"/>
+        <img src="https://img.shields.io/badge/MySQL-1E293B?style=flat-square&logo=mysql&logoColor=38BDF8"/>
+        <img src="https://img.shields.io/badge/Supabase-1E293B?style=flat-square&logo=supabase&logoColor=38BDF8"/>
+        <img src="https://img.shields.io/badge/Pandas-1E293B?style=flat-square&logo=pandas&logoColor=38BDF8"/>
+        <img src="https://img.shields.io/badge/NumPy-1E293B?style=flat-square&logo=numpy&logoColor=38BDF8"/>
+        <img src="https://img.shields.io/badge/Seaborn-1E293B?style=flat-square&logoColor=38BDF8"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="right"><b>Frameworks & Web</b></td>
       <td>
         <img src="https://img.shields.io/badge/FastAPI-1E293B?style=flat-square&logo=fastapi&logoColor=38BDF8"/>
-        <img src="https://img.shields.io/badge/Node.js-1E293B?style=flat-square&logo=node.js&logoColor=38BDF8"/>
-        <img src="https://img.shields.io/badge/Express-1E293B?style=flat-square&logo=express&logoColor=38BDF8"/>
-        <img src="https://img.shields.io/badge/REST_APIs-1E293B?style=flat-square&logoColor=38BDF8"/>
-        <img src="https://img.shields.io/badge/Docker-1E293B?style=flat-square&logo=docker&logoColor=38BDF8"/>
-        <img src="https://img.shields.io/badge/Vercel-1E293B?style=flat-square&logo=vercel&logoColor=38BDF8"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="right"><b>Frontend & UI</b></td>
-      <td>
+        <img src="https://img.shields.io/badge/Streamlit-1E293B?style=flat-square&logo=streamlit&logoColor=38BDF8"/>
+        <img src="https://img.shields.io/badge/Gradio-1E293B?style=flat-square&logoColor=38BDF8"/>
         <img src="https://img.shields.io/badge/React.js-1E293B?style=flat-square&logo=react&logoColor=38BDF8"/>
         <img src="https://img.shields.io/badge/Next.js-1E293B?style=flat-square&logo=next.js&logoColor=38BDF8"/>
+        <img src="https://img.shields.io/badge/Node.js-1E293B?style=flat-square&logo=node.js&logoColor=38BDF8"/>
         <img src="https://img.shields.io/badge/Tailwind_CSS-1E293B?style=flat-square&logo=tailwindcss&logoColor=38BDF8"/>
-        <img src="https://img.shields.io/badge/HTML5-1E293B?style=flat-square&logo=html5&logoColor=38BDF8"/>
-        <img src="https://img.shields.io/badge/CSS3-1E293B?style=flat-square&logo=css3&logoColor=38BDF8"/>
       </td>
     </tr>
     <tr>
-      <td align="right"><b>Databases & Tools</b></td>
+      <td align="right"><b>Tools & Environment</b></td>
       <td>
-        <img src="https://img.shields.io/badge/PostgreSQL-1E293B?style=flat-square&logo=postgresql&logoColor=38BDF8"/>
         <img src="https://img.shields.io/badge/Git-1E293B?style=flat-square&logo=git&logoColor=38BDF8"/>
         <img src="https://img.shields.io/badge/GitHub-1E293B?style=flat-square&logo=github&logoColor=38BDF8"/>
-        <img src="https://img.shields.io/badge/Postman-1E293B?style=flat-square&logo=postman&logoColor=38BDF8"/>
         <img src="https://img.shields.io/badge/VS_Code-1E293B?style=flat-square&logo=visualstudiocode&logoColor=38BDF8"/>
+        <img src="https://img.shields.io/badge/Linux-1E293B?style=flat-square&logo=linux&logoColor=38BDF8"/>
+        <img src="https://img.shields.io/badge/Jupyter-1E293B?style=flat-square&logo=jupyter&logoColor=38BDF8"/>
+        <img src="https://img.shields.io/badge/Google_Colab-1E293B?style=flat-square&logo=googlecolab&logoColor=38BDF8"/>
+        <img src="https://img.shields.io/badge/Postman-1E293B?style=flat-square&logo=postman&logoColor=38BDF8"/>
+        <img src="https://img.shields.io/badge/Vercel-1E293B?style=flat-square&logo=vercel&logoColor=38BDF8"/>
       </td>
     </tr>
   </table>
@@ -189,7 +198,7 @@ class SystemsEngineer:
         <td>
           <img src="https://img.shields.io/badge/1._Python-38BDF8?style=flat-square&logo=python&logoColor=0D1117" alt="Python"/>
         </td>
-        <td><b>Daily Driver</b> · AI/ML Systems, RAG Pipelines, FastAPI, Autonomous Agents</td>
+        <td><b>Daily Driver</b> · Generative AI, LLMs, RAG Pipelines, PyTorch, FastAPI, Streamlit</td>
         <td align="center">
           <code>95% · High Comfort</code><br>
           <img src="https://progress-bar.xyz/95/?color=38BDF8&width=110" alt="95%"/>
@@ -198,7 +207,7 @@ class SystemsEngineer:
       <tr>
         <td align="center"><b>02</b></td>
         <td>
-          <img src="https://img.shields.io/badge/2._C++-38BDF8?style=flat-square&logo=cplusplus&logoColor=0D1117" alt="C++"/>
+          <img src="https://img.shields.io/badge/2._C++_/_C-38BDF8?style=flat-square&logo=cplusplus&logoColor=0D1117" alt="C++ / C"/>
         </td>
         <td><b>Core Foundation</b> · Data Structures & Algorithms, Performance, Problem Solving</td>
         <td align="center">
@@ -209,28 +218,50 @@ class SystemsEngineer:
       <tr>
         <td align="center"><b>03</b></td>
         <td>
-          <img src="https://img.shields.io/badge/4._SQL-38BDF8?style=flat-square&logo=postgresql&logoColor=0D1117" alt="SQL"/>
+          <img src="https://img.shields.io/badge/3._SQL-38BDF8?style=flat-square&logo=postgresql&logoColor=0D1117" alt="SQL"/>
         </td>
-        <td><b>Data Persistence</b> · Relational Queries, Schema Design, PostgreSQL</td>
+        <td><b>Data Architecture</b> · Relational Queries, Schema Design, PostgreSQL, MySQL</td>
         <td align="center">
-          <code>78% · Comfortable</code><br>
-          <img src="https://progress-bar.xyz/80/?color=38BDF8&width=110" alt="80%"/>
+          <code>82% · Comfortable</code><br>
+          <img src="https://progress-bar.xyz/82/?color=38BDF8&width=110" alt="82%"/>
         </td>
-    </tr>
+      </tr>
       <tr>
         <td align="center"><b>04</b></td>
         <td>
-          <img src="https://img.shields.io/badge/3._JS_/_TS-38BDF8?style=flat-square&logo=typescript&logoColor=0D1117" alt="JS/TS"/>
+          <img src="https://img.shields.io/badge/4._JS_/_TS-38BDF8?style=flat-square&logo=typescript&logoColor=0D1117" alt="JS/TS"/>
         </td>
-        <td><b>Full-Stack Web</b> · Dynamic Interfaces with React, Next.js, and Node.js APIs</td>
+        <td><b>Full-Stack Web</b> · Dynamic Interfaces with React, Next.js, and Supabase Backends</td>
         <td align="center">
           <code>80% · Proficient</code><br>
-          <img src="https://progress-bar.xyz/78/?color=38BDF8&width=110" alt="78%"/>
+          <img src="https://progress-bar.xyz/80/?color=38BDF8&width=110" alt="80%"/>
         </td>
-        
+      </tr>
+      <tr>
+        <td align="center"><b>05</b></td>
+        <td>
+          <img src="https://img.shields.io/badge/5._Java-38BDF8?style=flat-square&logo=openjdk&logoColor=0D1117" alt="Java"/>
+        </td>
+        <td><b>Software Engineering</b> · Object-Oriented Programming (OOP) Principles & Design</td>
+        <td align="center">
+          <code>75% · Solid</code><br>
+          <img src="https://progress-bar.xyz/75/?color=38BDF8&width=110" alt="75%"/>
+        </td>
       </tr>
     </tbody>
   </table>
+
+  <br>
+
+  <!-- Certifications from CV -->
+  <h4>📜 Certifications & Specialized Training</h4>
+  <p align="center">
+    <img src="https://img.shields.io/badge/PyTorch-DeepLearning.AI-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C&labelColor=1E293B"/>
+    <img src="https://img.shields.io/badge/Generative_AI_Apps-IBM-0D1117?style=flat-square&logo=ibm&logoColor=38BDF8&labelColor=1E293B"/>
+    <img src="https://img.shields.io/badge/AI_Professional-Google-0D1117?style=flat-square&logo=google&logoColor=4285F4&labelColor=1E293B"/>
+    <img src="https://img.shields.io/badge/Prompt_Engineering-Vanderbilt-0D1117?style=flat-square&labelColor=1E293B&color=F59E0B"/>
+    <img src="https://img.shields.io/badge/Machine_Learning-Educative-0D1117?style=flat-square&labelColor=1E293B&color=10B981"/>
+  </p>
 
 </div>
 
@@ -249,6 +280,7 @@ class SystemsEngineer:
     </tr>
   </thead>
   <tbody>
+    <!-- PROJECT 1: CodeLens -->
     <tr>
       <td>
         <b>🔍 CodeLens</b>
@@ -271,21 +303,65 @@ class SystemsEngineer:
         </a>
       </td>
     </tr>
+
+    <!-- PROJECT 2: PocketCA -->
     <tr>
       <td>
-  <b> ReWriting Myself</b>
-  <br>
-  <sub>Personal Growth & Self-Documentation Platform</sub>
-</td>
-<td>
-  • A personal digital space for documenting experiences, thoughts, goals, and the journey of self-improvement.<br>
-  • Designed around reflection, consistency, and tracking the evolution of different versions of yourself over time.<br>
-  • Combines an immersive visual experience with personal storytelling to turn everyday progress into a living record.
-</td>
+        <b>💰 PocketCA</b>
+        <br>
+        <sub>AI-Powered Indian Tax Assistant & RAG Pipeline</sub>
+      </td>
       <td>
-        <code>React</code> <code>TypeScript</code> <code>Supabase</code> <code>Google OAuth</code> <code>Vercel</code>
+        • Engineered an AI tax advisor delivering accurate guidance on income tax, deductions, and exemptions.<br>
+        • Implemented robust RAG pipeline with document processing, semantic vector search, and prompt engineering.<br>
+        • Interactive conversational chatbot enabling real-time natural language Q&A.
+      </td>
+      <td>
+        <code>Python</code> <code>FastAPI</code> <code>LLMs</code> <code>RAG</code> <code>ChromaDB</code>
         <br><br>
-        <a href="https://github.com/AnkitRaj027/ChatBot" target="_blank">
+        <a href="https://github.com/AnkitRaj027/PocketCA" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-1E293B?style=flat-square&logo=github&logoColor=white" alt="Repo"/>
+        </a>
+      </td>
+    </tr>
+
+    <!-- PROJECT 3: Resume Analyzer -->
+    <tr>
+      <td>
+        <b>📊 Resume Analyzer</b>
+        <br>
+        <sub>AI-Powered Talent Discovery & Semantic Ranking</sub>
+      </td>
+      <td>
+        • SBERT semantic embeddings to extract resume entities and rank candidates against job requirements.<br>
+        • End-to-end resume parsing & technical gap analysis using PyPDF2 and NLTK.<br>
+        • Interactive Streamlit dashboard with Plotly radar charts, leaderboards, and skill heatmaps.
+      </td>
+      <td>
+        <code>Python</code> <code>SBERT</code> <code>NLP</code> <code>Streamlit</code> <code>Plotly</code>
+        <br><br>
+        <a href="https://github.com/AnkitRaj027?tab=repositories" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-1E293B?style=flat-square&logo=github&logoColor=white" alt="Repo"/>
+        </a>
+      </td>
+    </tr>
+
+    <!-- PROJECT 4: ReWriting Myself -->
+    <tr>
+      <td>
+        <b>🌱 ReWriting Myself</b>
+        <br>
+        <sub>Personal Growth & Self-Documentation Platform</sub>
+      </td>
+      <td>
+        • A personal digital space for documenting experiences, thoughts, goals, and self-improvement.<br>
+        • Reflection, consistency tracking, and visualizing the evolution of yourself over time.<br>
+        • Combines an immersive visual experience with personal storytelling.
+      </td>
+      <td>
+        <code>React</code> <code>TypeScript</code> <code>Supabase</code> <code>OAuth</code> <code>Vercel</code>
+        <br><br>
+        <a href="https://github.com/AnkitRaj027?tab=repositories" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-1E293B?style=flat-square&logo=github&logoColor=white" alt="Repo"/>
         </a>
         <a href="https://rewritingmyself.vercel.app/" target="_blank">
@@ -293,20 +369,25 @@ class SystemsEngineer:
         </a>
       </td>
     </tr>
+
+    <!-- PROJECT 5: Living Journal -->
     <tr>
       <td>
-  <b>📖 Living Journal</b>
-  <br>
-  <sub>Personal Digital Journal & Life Documentation Platform</sub>
-</td>
-<td>
-  • A private digital space for documenting thoughts, experiences, memories, and everyday moments.<br>
-  • Designed to turn personal reflections into a structured, evolving record of life over time.<br>
-  • Immersive interface focused on making journaling feel personal, visual, and meaningful.
-</td>
+        <b>📖 Living Journal</b>
+        <br>
+        <sub>Personal Digital Journal & Life Documentation Platform</sub>
+      </td>
       <td>
-        <code>React</code> <code>TypeScript</code> <code>Supabase</code> <code>Authentication</code> <code>Vercel</code>
+        • Private digital space for documenting thoughts, experiences, memories, and everyday moments.<br>
+        • Turns personal reflections into a structured, evolving record of life over time.<br>
+        • Immersive interface focused on making journaling feel personal, visual, and meaningful.
+      </td>
+      <td>
+        <code>React</code> <code>TypeScript</code> <code>Supabase</code> <code>Auth</code> <code>Vercel</code>
         <br><br>
+        <a href="https://github.com/AnkitRaj027?tab=repositories" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-1E293B?style=flat-square&logo=github&logoColor=white" alt="Repo"/>
+        </a>
         <a href="https://living-journal.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-38BDF8?style=flat-square&logo=vercel&logoColor=0D1117" alt="Demo"/>
         </a>
