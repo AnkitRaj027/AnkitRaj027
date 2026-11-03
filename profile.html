@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Ankit Raj | Profile README sections</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,600;1,9..144,300;1,9..144,400&family=Instrument+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  /* ---------- Tokens: edit colors and fonts here ---------- */
+  :root {
+    --cream: #F5F1E8;
+    --cream-deep: #EBE4D2;
+    --green: #173D2D;
+    --green-soft: #2C5A45;
+    --serif: "Fraunces", Georgia, "Times New Roman", serif;
+    --sans: "Instrument Sans", "Helvetica Neue", Arial, sans-serif;
+  }
+
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; background: var(--cream); }
+  body { font-family: var(--sans); font-size: 22px; line-height: 1.55; color: var(--green); }
+
+  /* Every section: exactly 800px wide, no margin */
+  section { width: 800px; margin: 0; padding: 72px; position: relative; overflow: hidden; background: var(--cream); }
+  a { color: inherit; text-decoration: none; }
+  h1, h2, h3, p { margin: 0; }
+
+  /* Shared heading pattern: small number, big serif title */
+  .num { font-family: var(--serif); font-style: italic; font-size: 26px; display: block; margin-bottom: 8px; }
+  .title { font-family: var(--serif); font-weight: 400; font-size: 54px; line-height: 1.08; letter-spacing: -0.01em; }
+  .rule { height: 0; border-top: 2px solid var(--green); margin: 32px 0 40px; position: relative; }
+  .rule::after { content: ""; position: absolute; left: 0; top: 5px; width: 100%; border-top: 1px solid var(--green); }
+
+  /* Tags */
+  .tags { display: flex; flex-wrap: wrap; gap: 10px; list-style: none; margin: 0; padding: 0; }
+  .tags li { border: 1.5px solid currentColor; padding: 5px 16px; font-size: 20px; font-weight: 500; line-height: 1.4; }
+
+  /* ---------- HERO ---------- */
+  #hero { background: var(--green); color: var(--cream); padding-top: 96px; padding-bottom: 80px; }
+  #hero .arcs { position: absolute; right: -180px; top: -180px; width: 560px; height: 560px; pointer-events: none; }
+  #hero h1 { font-family: var(--serif); font-weight: 300; font-size: 108px; line-height: 0.98; letter-spacing: -0.025em; position: relative; }
+  #hero h1 em { font-style: italic; font-weight: 300; display: block; }
+  .byline { display: flex; align-items: baseline; gap: 24px; margin-top: 56px; padding-top: 28px; border-top: 1px solid rgba(245,241,232,.55); }
+  .byline .name { font-family: var(--serif); font-size: 42px; font-weight: 600; }
+  .byline .field { font-size: 26px; font-weight: 500; padding-left: 24px; border-left: 1px solid rgba(245,241,232,.55); }
+  #hero .lede { font-size: 26px; line-height: 1.5; margin-top: 24px; max-width: 620px; }
+  .contact { margin-top: 56px; border-top: 1px solid rgba(245,241,232,.55); }
+  .contact a { display: flex; justify-content: space-between; gap: 24px; padding: 11px 0; border-bottom: 1px solid rgba(245,241,232,.25); font-size: 22px; }
+  .contact .k { font-family: var(--serif); font-style: italic; font-size: 24px; }
+
+  /* ---------- ABOUT ---------- */
+  #about .grid { display: grid; grid-template-columns: 1fr 250px; gap: 40px; align-items: start; }
+  #about p + p { margin-top: 24px; }
+  #about .photo { width: 100%; height: 330px; object-fit: cover; object-position: center; border-radius: 125px 125px 0 0; display: block; border: 2px solid var(--green); }
+  #about .second { margin-top: 28px; }
+  #about .closing { font-family: var(--serif); font-style: italic; font-weight: 300; font-size: 56px; line-height: 1.1; margin-top: 48px; padding-top: 32px; border-top: 2px solid var(--green); }
+
+  /* ---------- TOOLKIT ---------- */
+  .bucket { display: grid; grid-template-columns: 210px 1fr; gap: 32px; padding: 30px 0; border-top: 1px solid var(--green); }
+  .bucket:last-child { border-bottom: 2px solid var(--green); }
+  .bucket h3 { font-family: var(--serif); font-weight: 600; font-size: 32px; line-height: 1.15; }
+  .bucket .n { display: block; font-family: var(--serif); font-style: italic; font-weight: 400; font-size: 24px; margin-bottom: 6px; }
+  .bucket:nth-child(3) .tags li { background: var(--green); color: var(--cream); }
+
+  /* ---------- PROJECTS: shared card styles ---------- */
+  .project-card {
+    min-height: 540px;
+    padding: 60px 64px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .project-card .kicker { font-family: var(--serif); font-style: italic; font-size: 24px; opacity: 0.85; }
+  .project-card .ptitle { font-family: var(--serif); font-weight: 400; font-size: 58px; line-height: 1.05; letter-spacing: -0.02em; margin: 12px 0 0; }
+  .project-card .rule { height: 0; border-top: 2px solid currentColor; margin: 24px 0 28px; position: relative; }
+  .project-card .rule::after { content: ""; position: absolute; left: 0; top: 4px; width: 100%; border-top: 1px solid currentColor; }
+  .project-card .pdesc { font-size: 23px; line-height: 1.55; }
+  .project-card .tech-label { font-family: var(--serif); font-style: italic; font-size: 22px; margin: 24px 0 12px; }
+  .project-card .tags { display: flex; flex-wrap: wrap; gap: 10px; list-style: none; margin: 0; padding: 0; }
+  .project-card .tags li { border: 1.5px solid currentColor; padding: 5px 16px; font-size: 19px; font-weight: 500; }
+  .project-card .visit { display: inline-block; margin-top: 28px; font-size: 22px; font-weight: 600; border-bottom: 2px solid currentColor; padding-bottom: 2px; }
+
+  #projects-1 { background: var(--cream); color: var(--green); }
+  #projects-2 { background: var(--green); color: var(--cream); }
+  #projects-2 .rule { border-color: var(--cream); }
+  #projects-2 .tags li { border-color: var(--cream); }
+  #projects-3 { background: var(--cream-deep); color: var(--green); }
+</style>
+</head>
+<body>
+
+<!-- ===== HERO ===== -->
+<section id="hero">
+  <svg class="arcs" viewBox="0 0 560 560" fill="none" stroke="#F5F1E8" stroke-opacity=".22" aria-hidden="true">
+    <circle cx="280" cy="280" r="270"/><circle cx="280" cy="280" r="210"/><circle cx="280" cy="280" r="150"/><circle cx="280" cy="280" r="90"/>
+  </svg>
+  <h1>Building<em>intelligence.</em>Creating<em>impact.</em></h1>
+  <div class="byline">
+    <span class="name">Ankit Raj</span>
+    <span class="field">AI/ML Developer</span>
+  </div>
+  <p class="lede">Exploring the intersection of Artificial Intelligence, Machine Learning and Software Engineering to build meaningful solutions.</p>
+
+  <div class="contact">
+    <a href="https://github.com/AnkitRaj027"><span class="k">GitHub</span><span>github.com/AnkitRaj027</span></a>
+    <a href="https://ankitraj027portfolio.vercel.app/"><span class="k">Portfolio</span><span>ankitraj027portfolio.vercel.app</span></a>
+    <a href="https://rewritingmyself.vercel.app/"><span class="k">Rewriting Myself</span><span>rewritingmyself.vercel.app</span></a>
+    <a href="https://www.linkedin.com/in/ankitraj027/"><span class="k">LinkedIn</span><span>linkedin.com/in/ankitraj027</span></a>
+    <a href="mailto:ankitraj.main@gmail.com"><span class="k">Email</span><span>ankitraj.main@gmail.com</span></a>
+  </div>
+</section>
+
+<!-- ===== ABOUT ===== -->
+<section id="about">
+  <span class="num">01 /</span>
+  <h2 class="title">The person behind the projects</h2>
+  <div class="rule"></div>
+  <div class="grid">
+    <p>I'm Ankit Raj, a B.Tech student specializing in Artificial Intelligence and Machine Learning. I'm passionate about building practical intelligent systems and transforming complex ideas into useful applications.</p>
+    <img class="photo" src="assets/profile.png" alt="Ankit Raj">
+  </div>
+  <p class="second">My interests include Machine Learning, Generative AI, Natural Language Processing and software engineering. I enjoy experimenting with new technologies, solving problems and continuously improving my ability to build impactful solutions.</p>
+  <p class="closing">Explore. Build. Learn. Repeat.</p>
+</section>
+
+<!-- ===== TOOLKIT ===== -->
+<section id="toolkit">
+  <span class="num">02 /</span>
+  <h2 class="title">Different tools. One purpose.</h2>
+  <div class="rule"></div>
+
+  <div class="bucket">
+    <h3><span class="n">i.</span>AI &amp; Intelligence</h3>
+    <ul class="tags">
+      <li>Machine Learning</li><li>Deep Learning</li><li>Generative AI</li><li>Natural Language Processing</li>
+      <li>PyTorch</li><li>Scikit-learn</li><li>LangChain</li><li>LangGraph</li><li>RAG &amp; Embeddings</li>
+    </ul>
+  </div>
+  <div class="bucket">
+    <h3><span class="n">ii.</span>Languages &amp; Development</h3>
+    <ul class="tags">
+      <li>Python</li><li>Java</li><li>C</li><li>C++</li><li>SQL</li><li>Streamlit</li><li>FastAPI</li>
+    </ul>
+  </div>
+  <div class="bucket">
+    <h3><span class="n">iii.</span>Data &amp; Tools</h3>
+    <ul class="tags">
+      <li>MySQL</li><li>PostgreSQL</li><li>ChromaDB</li><li>Git &amp; GitHub</li><li>Hugging Face</li>
+      <li>VS Code</li><li>Jupyter Notebook</li><li>Google Colab</li>
+    </ul>
+  </div>
+</section>
+
+<!-- ===== PROJECT 1 ===== -->
+<section id="projects-1" class="project-card">
+  <div>
+    <span class="kicker">01 / Featured Project</span>
+    <h2 class="ptitle">Rewriting Myself</h2>
+    <div class="rule"></div>
+    <p class="pdesc">A personal digital space and creative portfolio documenting self-growth, learning, ideas and the journey of continuous improvement.</p>
+  </div>
+  <div>
+    <p class="tech-label">Technologies</p>
+    <ul class="tags"><li>Web Development</li><li>JavaScript</li><li>React</li><li>Next.js</li></ul>
+    <div><a class="visit" href="https://rewritingmyself.vercel.app/">rewritingmyself.vercel.app &rarr;</a></div>
+  </div>
+</section>
+
+<!-- ===== PROJECT 2 ===== -->
+<section id="projects-2" class="project-card">
+  <div>
+    <span class="kicker">02 / Featured Project</span>
+    <h2 class="ptitle">PocketCA</h2>
+    <div class="rule"></div>
+    <p class="pdesc">An AI-powered Indian tax assistant and RAG pipeline delivering real-time tax guidance, deduction strategies and natural language financial Q&A.</p>
+  </div>
+  <div>
+    <p class="tech-label">Technologies</p>
+    <ul class="tags"><li>Python</li><li>FastAPI</li><li>LLMs</li><li>RAG</li><li>ChromaDB</li></ul>
+    <div><a class="visit" href="https://github.com/AnkitRaj027/PocketCA">github.com/AnkitRaj027/PocketCA &rarr;</a></div>
+  </div>
+</section>
+
+<!-- ===== PROJECT 3 ===== -->
+<section id="projects-3" class="project-card">
+  <div>
+    <span class="kicker">03 / Featured Project</span>
+    <h2 class="ptitle">Resume Analyzer</h2>
+    <div class="rule"></div>
+    <p class="pdesc">An ML-powered resume screening platform that parses candidate profiles and evaluates job relevance using NLP, TF-IDF and semantic similarity.</p>
+  </div>
+  <div>
+    <p class="tech-label">Technologies</p>
+    <ul class="tags"><li>Python</li><li>NLP</li><li>Scikit-learn</li><li>TF-IDF</li><li>Streamlit</li></ul>
+    <div><a class="visit" href="https://github.com/AnkitRaj027">github.com/AnkitRaj027 &rarr;</a></div>
+  </div>
+</section>
+
+</body>
+</html>
