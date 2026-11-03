@@ -50,7 +50,6 @@
   .contact { margin-top: 36px; border-top: 1px solid rgba(247,244,238,0.35); display: grid; grid-template-columns: 1fr 1fr; gap: 0 32px; }
   .contact a { display: flex; justify-content: space-between; align-items: center; padding: 10px 0; border-bottom: 1px solid rgba(247,244,238,0.18); font-size: 16px; }
   .contact .k { font-family: var(--serif); font-style: italic; font-size: 17px; opacity: 0.85; }
-  .contact a:hover { opacity: 0.8; }
 
   /* ---------- ABOUT ---------- */
   #about .grid { display: grid; grid-template-columns: 1fr 200px; gap: 36px; align-items: start; }
@@ -68,31 +67,26 @@
   .bucket .n { display: block; font-family: var(--serif); font-style: italic; font-weight: 400; font-size: 18px; margin-bottom: 4px; opacity: 0.8; }
   .bucket:nth-child(3) .tags li { background: var(--green); color: var(--cream); border-color: var(--green); }
 
-  /* ---------- PROJECTS: SHARED CARD STYLES ---------- */
+  /* ---------- PROJECTS: shared card styles ---------- */
   .project-card {
     width: 800px;
-    min-height: 380px;
-    padding: 44px 50px;
+    height: 420px;
+    padding: 44px 48px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     border: 1.5px solid var(--green);
-    border-radius: 14px;
-    margin-bottom: 20px;
+    border-radius: 12px;
   }
-  .card-top { display: flex; justify-content: space-between; align-items: baseline; }
-  .card-pill { font-family: var(--sans); font-size: 13px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; padding: 3px 11px; border: 1px solid currentColor; border-radius: 999px; }
-  .kicker { font-family: var(--serif); font-style: italic; font-size: 18px; opacity: 0.85; }
-  .ptitle { font-family: var(--serif); font-weight: 400; font-size: 38px; line-height: 1.1; letter-spacing: -0.02em; margin: 8px 0 0; }
-  .card-rule { height: 0; border-top: 1px solid currentColor; margin: 16px 0 18px; position: relative; opacity: 0.45; }
-  .pdesc { font-size: 17px; line-height: 1.55; }
-  .tech-label { font-family: var(--serif); font-style: italic; font-size: 17px; margin: 0 0 8px; opacity: 0.85; }
-  .card-bottom { display: flex; justify-content: space-between; align-items: center; margin-top: 14px; padding-top: 14px; border-top: 1px solid currentColor; border-opacity: 0.2; }
-  .card-status { font-size: 15px; opacity: 0.75; font-weight: 500; }
-  .visit-link { font-family: var(--sans); font-size: 16px; font-weight: 600; display: inline-flex; align-items: center; gap: 5px; }
+  .project-card .kicker { font-family: var(--serif); font-style: italic; font-size: 19px; opacity: 0.85; display: block; margin-bottom: 6px; }
+  .project-card .ptitle { font-family: var(--serif); font-weight: 400; font-size: 38px; line-height: 1.1; letter-spacing: -0.02em; margin: 0; }
+  .project-card .pdesc { font-size: 17px; line-height: 1.55; margin: 14px 0 0; opacity: 0.92; }
+  .project-card .tags { display: flex; flex-wrap: wrap; gap: 8px; list-style: none; margin: 0 0 20px; padding: 0; }
+  .project-card .tags li { border: 1px solid currentColor; padding: 4px 13px; font-size: 15px; font-weight: 500; border-radius: 4px; }
+  .project-card .visit { display: inline-block; font-size: 17px; font-weight: 600; border-bottom: 1.5px solid currentColor; padding-bottom: 2px; }
 
   #projects-1 { background: var(--cream); color: var(--green); border-color: var(--green); }
-  #projects-2 { background: var(--green); color: var(--cream); border-color: rgba(247,244,238,0.4); }
+  #projects-2 { background: var(--green); color: var(--cream); border-color: rgba(247,244,238,0.35); }
   #projects-2 .tags li { border-color: var(--cream); }
   #projects-3 { background: var(--cream-deep); color: var(--green); border-color: var(--green); }
 </style>
@@ -168,63 +162,39 @@
 <!-- ===== PROJECT 1 ===== -->
 <section id="projects-1" class="project-card">
   <div>
-    <div class="card-top">
-      <span class="kicker">01 / Featured Project</span>
-      <span class="card-pill">Web &amp; Creative</span>
-    </div>
+    <span class="kicker">Project 1</span>
     <h2 class="ptitle">Rewriting Myself</h2>
-    <div class="card-rule"></div>
-    <p class="pdesc">A personal digital space and creative portfolio documenting self-growth, learning, ideas and the journey of continuous improvement.</p>
+    <p class="pdesc">A personal digital space and creative portfolio documenting self-growth, learning, ideas and continuous improvement.</p>
   </div>
   <div>
-    <p class="tech-label">Technologies</p>
     <ul class="tags"><li>JavaScript</li><li>React</li><li>Next.js</li><li>Tailwind CSS</li></ul>
-    <div class="card-bottom">
-      <span class="card-status">Live Production</span>
-      <span class="visit-link">rewritingmyself.vercel.app &rarr;</span>
-    </div>
+    <a class="visit" href="https://rewritingmyself.vercel.app/">rewritingmyself.vercel.app &rarr;</a>
   </div>
 </section>
 
 <!-- ===== PROJECT 2 ===== -->
 <section id="projects-2" class="project-card">
   <div>
-    <div class="card-top">
-      <span class="kicker">02 / Featured Project</span>
-      <span class="card-pill">GenAI &amp; RAG</span>
-    </div>
+    <span class="kicker">Project 2</span>
     <h2 class="ptitle">PocketCA</h2>
-    <div class="card-rule"></div>
-    <p class="pdesc">An AI-powered Indian tax assistant and RAG pipeline delivering real-time tax guidance, deduction strategies and natural language financial Q&A.</p>
+    <p class="pdesc">An AI-powered Indian tax assistant and RAG pipeline delivering real-time tax guidance and natural language financial Q&A.</p>
   </div>
   <div>
-    <p class="tech-label">Technologies</p>
     <ul class="tags"><li>Python</li><li>FastAPI</li><li>LLMs</li><li>RAG</li><li>ChromaDB</li></ul>
-    <div class="card-bottom">
-      <span class="card-status">Open Source Core</span>
-      <span class="visit-link">github.com/AnkitRaj027/PocketCA &rarr;</span>
-    </div>
+    <a class="visit" href="https://github.com/AnkitRaj027/PocketCA">github.com/AnkitRaj027/PocketCA &rarr;</a>
   </div>
 </section>
 
 <!-- ===== PROJECT 3 ===== -->
 <section id="projects-3" class="project-card">
   <div>
-    <div class="card-top">
-      <span class="kicker">03 / Featured Project</span>
-      <span class="card-pill">NLP &amp; Machine Learning</span>
-    </div>
+    <span class="kicker">Project 3</span>
     <h2 class="ptitle">Resume Analyzer</h2>
-    <div class="card-rule"></div>
-    <p class="pdesc">An ML-powered resume screening platform that parses candidate profiles and evaluates job relevance using NLP, TF-IDF and semantic similarity.</p>
+    <p class="pdesc">An ML-powered resume screening platform that parses candidate profiles and evaluates relevance using NLP and semantic similarity.</p>
   </div>
   <div>
-    <p class="tech-label">Technologies</p>
     <ul class="tags"><li>Python</li><li>NLP</li><li>Scikit-learn</li><li>TF-IDF</li><li>Streamlit</li></ul>
-    <div class="card-bottom">
-      <span class="card-status">ML Application</span>
-      <span class="visit-link">github.com/AnkitRaj027 &rarr;</span>
-    </div>
+    <a class="visit" href="https://github.com/AnkitRaj027">github.com/AnkitRaj027 &rarr;</a>
   </div>
 </section>
 
